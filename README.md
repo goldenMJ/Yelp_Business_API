@@ -14,10 +14,7 @@ Using the Yelp Fusion API (endpoint: /businesses/search), I have created an appl
           rating	
           review_count
 
-
-**Copyright:**
-
-Kadar Amek
+------------------------------------------------------------------------------------------------------------------------------
 
 
 
